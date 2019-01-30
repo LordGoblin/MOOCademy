@@ -1,3 +1,3 @@
 class Cour < ApplicationRecord
-	has_many :lecon
+	has_many :lecons
 end
